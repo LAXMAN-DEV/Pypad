@@ -1,5 +1,5 @@
 # Pypad
-Similar to notepad but with limitations.
+A text-editor created using python.
 # Requirements
   * Python 3.3+
   * tkinter
